@@ -1,0 +1,164 @@
+#include <iostream>
+#include <string.h>
+ 
+using namespace std;
+ 
+struct Student
+{
+    long long sid;
+    char name[50];
+    int grades[3];
+};
+ 
+Student students[1005];
+int n_students = 0;
+ 
+void insert_student() {
+    long long sid; cin >> sid;
+    int pos = 0;
+    while (pos < n_students && students[pos].sid != sid) pos++;
+    Student& s = students[pos]; s.sid = sid;
+    for (int i = 0; i < 3; ++i) cin >> s.grades[i];
+    cin >> ws;
+    cin.getline(s.name, 50);
+    if (pos < n_students) return;
+    n_students++;
+}
+ 
+void insert1_student() {
+    long long sid; cin >> sid;
+    int pos = 0;
+    char namet[50];
+    int gradest[3];
+    while (pos < n_students && students[pos].sid != sid) pos++;
+    if (pos >= n_students) {
+        for (int i = 0; i < 3; ++i) cin >> gradest[i];
+        cin >> ws;
+        cin.getline(namet, 50);
+        return;
+    }
+    else {
+        Student& s = students[pos]; s.sid = sid;
+        for (int i = 0; i < 3; ++i) cin >> s.grades[i];
+        cin >> ws;
+        cin.getline(s.name, 50);
+        return;
+    }
+}
+ 
+void Delete_student() {
+    long long sid; cin >> sid;
+    int pos = 0;
+    while (pos < n_students && students[pos].sid != sid) pos++;
+    if (pos >= n_students) return;
+    else {
+        for (int i = pos;i < n_students;++i)
+        {
+            students[i] = students[i + 1];
+        }
+        n_students--;
+        return;
+    }
+}
+ 
+void findsid_student() {
+    long long sid; cin >> sid;
+    for (int i = 0;i < n_students;++i)
+    {
+        if (students[i].sid == sid)
+        {
+            cout << sid << ' ';
+            cout << students[i].name << ' ';
+            for (int i1 = 0; i1 < 3; ++i1) cout << students[i].grades[i1] << ' ';
+            cout << endl;
+        }
+    }
+    return;
+}
+ 
+void findname_student() {
+    char namex[50];
+    int ws;
+    cin.get(namex, 50);
+    for (int i1 = 0;i1 < strlen(namex);++i1)
+        namex[i1] = namex[i1 + 1];
+    for (int i = 0;i < n_students;++i)
+    {
+        if (strcmp(students[i].name, namex) == 0)
+        {
+            cout << students[i].sid << ' ';
+            cout << students[i].name << ' ';
+            for (int i1 = 0; i1 < 3; ++i1) cout << students[i].grades[i1] << ' ';
+            cout << endl;
+        }
+    }
+    return;
+}
+ 
+void idsort_student() {
+    Student tmp;
+    for (int i = 0;i < n_students;++i)
+    {
+        for (int j = i;j < n_students;++j)
+        {
+            if (students[i].sid > students[j].sid)
+            {
+                tmp = students[i];
+                students[i] = students[j];
+                students[j] = tmp;
+            }
+        }
+    }
+    for (int i = 0;i < n_students;++i)
+    {
+        cout << students[i].sid << ' ';
+        cout << students[i].name << ' ';
+        for (int i1 = 0; i1 < 3; ++i1) cout << students[i].grades[i1] << ' ';
+        cout << endl;
+    }
+}
+ 
+ 
+void gradesort_student() {
+    Student tmp;
+    int sum1, sum2;
+    for (int i = 0;i < n_students;++i)
+    {
+        sum1 = students[i].grades[0] + students[i].grades[1] + students[i].grades[2];
+        for (int j = i;j < n_students;++j)
+        {
+            sum2 = students[j].grades[0] + students[j].grades[1] + students[j].grades[2];
+            if (sum1 < sum2)
+            {
+                tmp = students[i];
+                students[i] = students[j];
+                students[j] = tmp;
+                sum1 = students[i].grades[0] + students[i].grades[1] + students[i].grades[2];
+                sum2 = students[j].grades[0] + students[j].grades[1] + students[j].grades[2];
+            }
+        }
+    }
+    for (int i = 0;i < n_students;++i)
+    {
+        cout << students[i].sid << ' ';
+        cout << students[i].name << ' ';
+        for (int i1 = 0; i1 < 3; ++i1) cout << students[i].grades[i1] << ' ';
+        cout << endl;
+    }
+}
+ 
+ 
+int main() {
+    int select;
+    while (cin >> select)
+    {
+        if (select == 1)  insert_student();
+        else if (select == 2)insert1_student();
+        else if (select == 3)Delete_student();
+        else if (select == 4)findsid_student();
+        else if (select == 5)findname_student();
+        else if (select == 6)idsort_student();
+        else if (select == 7)gradesort_student();
+    }
+    return 0;
+}
