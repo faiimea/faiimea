@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @faiimea
-- 👀 I’m interested in the vitural youtuber and manga of Japan
-- 🌱 I’m currently learning the basic computer science
-- 💞️ I’m looking to collaborate on something...maybe in the future I will fulfill this one
-- 📫 How to reach me _____1320407956@qq.com is always available
+I am a fresh student of the Shanghai Jiaotong University(SJTU)
+Because of the terrible performance in the divergence test,and therefore I chose the Information Security as my major(Because my favourite major is SE).
+Now I devote myself to strgguling with the challenge in zhiyuan college.
+It is really a hard time ,but I believe I will overcome it
+It is always my dream to be a computer engineer.
 
 <!---
 faiimea/faiimea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
