@@ -6,4 +6,4 @@
   
   **Any sufficiently advanced technology is indistinguishable from magic**, and I'm on my way to be a *magician*.
   
-  
+  ![faii's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiimea&count_private=true)
