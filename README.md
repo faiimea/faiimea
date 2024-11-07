@@ -7,6 +7,9 @@
   
   **Any sufficiently advanced technology is indistinguishable from magic**, and I'm on my way to be a *magician*.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiimea)
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2026%20mins-blue)
