@@ -4,8 +4,8 @@
   
   I am a junior majoring in Cyber Science and Engineering in Shanghai Jiaotong University, working at the intersection
   of machine learning and computer security. I'm interested in ACG, subcultures, history and philosophy. and my research interest includes security of AI & IOT.
-  
-  **Any sufficiently advanced technology is indistinguishable from magic**, and I'm on my way to be a *magician*.
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic;On+my+way+to+be+a+*magician*)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiimea)
 
