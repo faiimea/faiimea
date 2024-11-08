@@ -12,13 +12,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 114 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,16 +55,24 @@ Sunday                   143 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 38 mins       █████████████████████████   100.00 % 
+Python                   3 hrs 43 mins       ██████████████████░░░░░░░   71.89 % 
+Markdown                 1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+INI                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Obsidian                 2 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 50 mins       ███████████████████░░░░░░   74.15 % 
+Obsidian                 1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
 
 🐱‍💻 Projects: 
-Obsidian Vault           2 hrs 38 mins       █████████████████████████   100.00 % 
+Moore-AnimateAnyone      3 hrs 29 mins       █████████████████░░░░░░░░   67.58 % 
+Obsidian Vault           1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+MMVGM                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+lfz                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      2 hrs 38 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 50 mins       ███████████████████░░░░░░   74.15 % 
+Mac                      1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +92,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 18:43:09 UTC
+ Last Updated on 08/11/2024 18:43:23 UTC
 <!--END_SECTION:waka-->
