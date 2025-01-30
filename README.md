@@ -20,6 +20,8 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 57 Public Repositories 
@@ -53,20 +55,16 @@ Sunday                   143 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████████░░░░░░   74.73 % 
-YAML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Locate-and-Verify        15 mins             ██████████████░░░░░░░░░░░   55.80 % 
-RECCE                    6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-lfz                      6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 18:43:11 UTC
+ Last Updated on 30/01/2025 18:42:52 UTC
 <!--END_SECTION:waka-->
