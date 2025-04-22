@@ -12,13 +12,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,21 +55,18 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   4 hrs 14 mins       ████████████████████████░   97.19 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Python                   6 hrs 58 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Locate-and-Verify        2 hrs 56 mins       █████████████████░░░░░░░░   67.34 % 
-Moore-AnimateAnyone      57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-lfz                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-RECCE                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Locate-and-Verify        4 hrs 21 mins       ████████████████░░░░░░░░░   62.63 % 
+lfz                      1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Moore-AnimateAnyone      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
 
 💻 Operating System: 
-Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -87,5 +86,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2025 18:47:25 UTC
+ Last Updated on 22/04/2025 18:47:27 UTC
 <!--END_SECTION:waka-->
