@@ -12,15 +12,13 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +53,18 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 58 mins       █████████████████████████   100.00 % 
+Python                   7 hrs 7 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Locate-and-Verify        4 hrs 21 mins       ████████████████░░░░░░░░░   62.63 % 
-lfz                      1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Moore-AnimateAnyone      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Locate-and-Verify        4 hrs 16 mins       ███████████████░░░░░░░░░░   59.99 % 
+lfz                      1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+Moore-AnimateAnyone      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 
 💻 Operating System: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 22/04/2025 18:47:27 UTC
+ Last Updated on 23/04/2025 18:49:32 UTC
 <!--END_SECTION:waka-->
