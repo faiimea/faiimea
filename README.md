@@ -12,7 +12,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-781%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,16 +53,18 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+Python                   15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Locate-and-Verify        6 mins              █████████████████████████   100.00 % 
+DLSec                    9 mins              ███████████████░░░░░░░░░░   60.51 % 
+Locate-and-Verify        6 mins              ██████████░░░░░░░░░░░░░░░   39.49 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Windows                  9 mins              ███████████████░░░░░░░░░░   60.51 % 
+Linux                    6 mins              ██████████░░░░░░░░░░░░░░░   39.49 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:44:31 UTC
+ Last Updated on 04/05/2025 18:45:46 UTC
 <!--END_SECTION:waka-->
