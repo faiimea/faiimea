@@ -12,13 +12,15 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-806%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-807%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,16 +55,21 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   42 mins             █████████████████████░░░░   82.91 % 
+YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-lfz                      3 mins              █████████████████████████   100.00 % 
+Locate-and-Verify        50 mins             █████████████████████████   98.57 % 
+RECCE                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,5 +89,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 18:51:19 UTC
+ Last Updated on 14/08/2025 18:52:56 UTC
 <!--END_SECTION:waka-->
