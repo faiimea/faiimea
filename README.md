@@ -12,7 +12,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=faiimea)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-832%20hrs%2039%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -26,6 +28,45 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                219 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+🌆 Daytime                223 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+🌃 Evening                386 commits         █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌙 Night                  278 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Tuesday                  208 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Wednesday                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Thursday                 124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Friday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Saturday                 140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Sunday                   139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -43,5 +84,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faiimea/faiimea/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:46:09 UTC
+ Last Updated on 04/10/2025 18:43:15 UTC
 <!--END_SECTION:waka-->
